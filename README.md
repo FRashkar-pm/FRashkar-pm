@@ -5,6 +5,7 @@
 
 
 <img src= "https://github-readme-stats.vercel.app/api?username=FRashkar-pm&theme=dark" />
+<img src= "https://github-readme-stats.vercel.app/api/top-langs?username=FRashkar-pm&theme=dark" />
 
 <!---
 FRashkar-pm/FRashkar-pm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
