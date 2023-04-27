@@ -2,6 +2,7 @@
 - 👀 I’m interested in PHP
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on PHP
+- My Discord: FireRashkar#1519
 
 
 <img src= "https://github-readme-stats.vercel.app/api?username=FRashkar-pm&theme=dark" />
