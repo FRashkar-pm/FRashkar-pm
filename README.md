@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @FRashkar-pm
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP, CSS, JavaScript, Go, HTML, Python
 - 💞️ I’m looking to collaborate on PHP
 - My Discord: FireRashkar#1519
 
+![](https://komarev.com/ghpvc/?username=FRashkar-pm)
 
 <img src= "https://github-readme-stats.vercel.app/api?username=FRashkar-pm&theme=dark" />
 <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=FRashkar-pm&theme=dark" />
